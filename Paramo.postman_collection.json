@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "d5bae018-21f0-46c2-ac5a-5dfb17e4d28c",
+		"name": "Paramo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:33145/users/create-users",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"user-agent": true,
+					"accept": true,
+					"accept-encoding": true,
+					"connection": true
+				}
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\":\"Agustina\",\r\n    \"email\":\"agustina@email.com\",\r\n    \"phone\":\"+349 11223566666\",\r\n    \"address\":\"jdhsjhs  sfs\",\r\n    \"usertype\":\"Normal\",\r\n    \"money\":124\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:33145/users/create-user",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33145",
+					"path": [
+						"users",
+						"create-user"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

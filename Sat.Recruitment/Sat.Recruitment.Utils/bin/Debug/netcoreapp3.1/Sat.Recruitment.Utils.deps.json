@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sat.Recruitment.Utils/1.0.0": {
+        "dependencies": {
+          "Sat.Recruitment.Models": "1.0.0"
+        },
+        "runtime": {
+          "Sat.Recruitment.Utils.dll": {}
+        }
+      },
+      "Sat.Recruitment.Models/1.0.0": {
+        "runtime": {
+          "Sat.Recruitment.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sat.Recruitment.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sat.Recruitment.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

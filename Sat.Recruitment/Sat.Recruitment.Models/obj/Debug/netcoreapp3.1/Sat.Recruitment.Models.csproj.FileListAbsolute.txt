@@ -1,0 +1,9 @@
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\bin\Debug\netcoreapp3.1\Sat.Recruitment.Models.deps.json
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\bin\Debug\netcoreapp3.1\Sat.Recruitment.Models.dll
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\bin\Debug\netcoreapp3.1\Sat.Recruitment.Models.pdb
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\obj\Debug\netcoreapp3.1\Sat.Recruitment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\obj\Debug\netcoreapp3.1\Sat.Recruitment.Models.AssemblyInfoInputs.cache
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\obj\Debug\netcoreapp3.1\Sat.Recruitment.Models.AssemblyInfo.cs
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\obj\Debug\netcoreapp3.1\Sat.Recruitment.Models.csproj.CoreCompileInputs.cache
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\obj\Debug\netcoreapp3.1\Sat.Recruitment.Models.dll
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Models\obj\Debug\netcoreapp3.1\Sat.Recruitment.Models.pdb

@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sat.Recruitment.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Sat.Recruitment.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sat.Recruitment.Entities.dll": {}
+        }
+      },
+      "Sat.Recruitment.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Sat.Recruitment.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sat.Recruitment.Models.dll": {}
+        }
+      },
+      "Sat.Recruitment.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Sat.Recruitment.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sat.Recruitment.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sat.Recruitment.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sat.Recruitment.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Sat.Recruitment.Entities/Sat.Recruitment.Entities.csproj",
+      "msbuildProject": "../Sat.Recruitment.Entities/Sat.Recruitment.Entities.csproj"
+    },
+    "Sat.Recruitment.Models/1.0.0": {
+      "type": "project",
+      "path": "../Sat.Recruitment.Models/Sat.Recruitment.Models.csproj",
+      "msbuildProject": "../Sat.Recruitment.Models/Sat.Recruitment.Models.csproj"
+    },
+    "Sat.Recruitment.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Sat.Recruitment.Utils/Sat.Recruitment.Utils.csproj",
+      "msbuildProject": "../Sat.Recruitment.Utils/Sat.Recruitment.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Sat.Recruitment.Entities >= 1.0.0",
+      "Sat.Recruitment.Models >= 1.0.0",
+      "Sat.Recruitment.Utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LUISR\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Business\\Sat.Recruitment.Business.csproj",
+      "projectName": "Sat.Recruitment.Business",
+      "projectPath": "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Business\\Sat.Recruitment.Business.csproj",
+      "packagesPath": "C:\\Users\\LUISR\\.nuget\\packages\\",
+      "outputPath": "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LUISR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Entities\\Sat.Recruitment.Entities.csproj": {
+              "projectPath": "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Entities\\Sat.Recruitment.Entities.csproj"
+            },
+            "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Models\\Sat.Recruitment.Models.csproj": {
+              "projectPath": "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Models\\Sat.Recruitment.Models.csproj"
+            },
+            "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Utils\\Sat.Recruitment.Utils.csproj": {
+              "projectPath": "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Utils\\Sat.Recruitment.Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sat.Recruitment.Business/1.0.0": {
+        "dependencies": {
+          "Sat.Recruitment.Entities": "1.0.0",
+          "Sat.Recruitment.Models": "1.0.0",
+          "Sat.Recruitment.Utils": "1.0.0"
+        },
+        "runtime": {
+          "Sat.Recruitment.Business.dll": {}
+        }
+      },
+      "Sat.Recruitment.Entities/1.0.0": {
+        "runtime": {
+          "Sat.Recruitment.Entities.dll": {}
+        }
+      },
+      "Sat.Recruitment.Models/1.0.0": {
+        "runtime": {
+          "Sat.Recruitment.Models.dll": {}
+        }
+      },
+      "Sat.Recruitment.Utils/1.0.0": {
+        "dependencies": {
+          "Sat.Recruitment.Models": "1.0.0"
+        },
+        "runtime": {
+          "Sat.Recruitment.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sat.Recruitment.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sat.Recruitment.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sat.Recruitment.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sat.Recruitment.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

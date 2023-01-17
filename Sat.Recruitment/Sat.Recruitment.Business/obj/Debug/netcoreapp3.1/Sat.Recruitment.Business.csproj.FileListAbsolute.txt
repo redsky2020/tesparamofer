@@ -1,0 +1,17 @@
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.csproj.AssemblyReference.cache
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.AssemblyInfoInputs.cache
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.AssemblyInfo.cs
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.csproj.CoreCompileInputs.cache
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Business.deps.json
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Business.dll
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Business.pdb
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Entities.dll
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Models.dll
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Utils.dll
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Entities.pdb
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Models.pdb
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\bin\Debug\netcoreapp3.1\Sat.Recruitment.Utils.pdb
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.csproj.CopyComplete
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.dll
+C:\My Projects\.NET\TestParamo\Sat.Recruitment\Sat.Recruitment.Business\obj\Debug\netcoreapp3.1\Sat.Recruitment.Business.pdb

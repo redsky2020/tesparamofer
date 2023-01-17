@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VulcKdS0IuOMt2PLOP7BuaB6zXuwlijpuw3vOomISVagg3yCerGRoJShHQWkMjxZHgUbO6ttA49g0gQ134XMVQ==",
+  "success": true,
+  "projectFilePath": "C:\\My Projects\\.NET\\TestParamo\\Sat.Recruitment\\Sat.Recruitment.Api\\Sat.Recruitment.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUISR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

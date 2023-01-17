@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Business", "Sat.Recruitment.Business\Sat.Recruitment.Business.csproj", "{88257F5F-B997-4C64-AAF7-A2C87BD4A60D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Entities", "Sat.Recruitment.Entities\Sat.Recruitment.Entities.csproj", "{9C0A0F55-77CD-4FDC-B76D-5F03E88AE127}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Utils", "Sat.Recruitment.Utils\Sat.Recruitment.Utils.csproj", "{177F09EE-F219-4288-819F-13EC710B13FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Models", "Sat.Recruitment.Models\Sat.Recruitment.Models.csproj", "{762BC7CC-484C-4126-8147-7240FD9993A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Api", "Sat.Recruitment.Api\Sat.Recruitment.Api.csproj", "{CD3717B9-8D0A-4C52-A58C-04FF4161E00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sat.Recruitment.Test", "Sat.Recruitment.Test\Sat.Recruitment.Test.csproj", "{4A980928-A90F-4D53-B6AA-D7000B1F66FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88257F5F-B997-4C64-AAF7-A2C87BD4A60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88257F5F-B997-4C64-AAF7-A2C87BD4A60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88257F5F-B997-4C64-AAF7-A2C87BD4A60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88257F5F-B997-4C64-AAF7-A2C87BD4A60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0A0F55-77CD-4FDC-B76D-5F03E88AE127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0A0F55-77CD-4FDC-B76D-5F03E88AE127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0A0F55-77CD-4FDC-B76D-5F03E88AE127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0A0F55-77CD-4FDC-B76D-5F03E88AE127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177F09EE-F219-4288-819F-13EC710B13FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177F09EE-F219-4288-819F-13EC710B13FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177F09EE-F219-4288-819F-13EC710B13FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177F09EE-F219-4288-819F-13EC710B13FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762BC7CC-484C-4126-8147-7240FD9993A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762BC7CC-484C-4126-8147-7240FD9993A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762BC7CC-484C-4126-8147-7240FD9993A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762BC7CC-484C-4126-8147-7240FD9993A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3717B9-8D0A-4C52-A58C-04FF4161E00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3717B9-8D0A-4C52-A58C-04FF4161E00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3717B9-8D0A-4C52-A58C-04FF4161E00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3717B9-8D0A-4C52-A58C-04FF4161E00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A980928-A90F-4D53-B6AA-D7000B1F66FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A980928-A90F-4D53-B6AA-D7000B1F66FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A980928-A90F-4D53-B6AA-D7000B1F66FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A980928-A90F-4D53-B6AA-D7000B1F66FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11585A71-4120-4CE6-922F-A43EC47A25F8}
+	EndGlobalSection
+EndGlobal
